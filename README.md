@@ -4,9 +4,11 @@ I'm Morgan.
 </p>
 <p align='center'>For enquiries, reach out @ morgan@symmetricaconsultants.com or over on <a href="https://twitter.com/MTDevOps">Twitter</a>.</p>
 
+<h1 align='center'><i>Stay awesome!</i></h1>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travis-md&count_private=true&theme=prussian&show_icons=true)](https://www.symmetricaconsultants.com/)
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travis-md&layout=compact&theme=prussian)](https://www.symmetricaconsultants.com/)
