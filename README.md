@@ -6,7 +6,7 @@ I'm Morgan.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travis-md&count_private=true&theme=prussian&show_icons=true)](https://www.symmetricaconsultants.com/)
+<p align='center'>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travis-md&count_private=true&theme=prussian&show_icons=true)](https://www.symmetricaconsultants.com/)</p>
 
 
 
