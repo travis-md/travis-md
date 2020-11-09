@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/travis-md/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://www.symmetricaconsultants.com/)
+[![Header](https://github.com/travis-md/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://www.symmetricaconsultants.com/)
 ### Hi there 👋
 
 <!--
