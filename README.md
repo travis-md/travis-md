@@ -1,10 +1,10 @@
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
+<h1 align='left'> Hi! :wave:</h1>
+<p align='left'>
 I'm Morgan.
 </p>
-<p align='center'>For enquiries, reach out @ morgan@symmetricaconsultants.com or over on <a href="https://twitter.com/MTDevOps">Twitter</a>.</p>
+<p align='left'>For enquiries, reach out @ morgan@symmetricaconsultants.com or over on <a href="https://twitter.com/MTDevOps">Twitter</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='left'><i>Stay awesome!</i></h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travis-md&count_private=true&theme=prussian&show_icons=true&align=center)](https://www.symmetricaconsultants.com/)
 
