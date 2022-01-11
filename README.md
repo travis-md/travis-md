@@ -2,7 +2,7 @@
 <p align='left'>
 I'm Morgan.
 </p>
-<p align='left'>For inquiries, reach out @ morgan@symmetricaconsultants.com or over on <a href="https://twitter.com/MTDevOps">Twitter</a>.</p>
+<p align='left'>For inquiries, reach out over on <a href="https://twitter.com/MTDevOps">Twitter</a>.</p>
 
 <h1 align='left'><i>Stay awesome!</i></h1>
 
