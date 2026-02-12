@@ -6,9 +6,6 @@ I'm Morgan.
 
 <h1 align='left'><i>Stay awesome!</i></h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=travis-md&count_private=true&theme=prussian&show_icons=true&align=center)](https://www.symmetricaconsultants.com/)
-
-
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travis-md&layout=compact&theme=prussian)](https://www.symmetricaconsultants.com/)
